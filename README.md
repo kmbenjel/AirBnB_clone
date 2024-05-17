@@ -1,1 +1,1 @@
-A command interpreter to manage HBnB objects
+A command interpreter to manage HBNB objects
